@@ -1,16 +1,28 @@
-# labtest
+# 📝 Staff Management App (Lab Test Project)
 
-A new Flutter project.
+A simple Flutter application that performs basic **CRUD operations** (Create, Read, Update, Delete) using **Firebase Firestore**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👤 Developer Info
 
-A few resources to get you started if this is your first Flutter project:
+- **Name:** SYAZANA ALYAA BINTI MOHD RAFI 
+- **Matric Number:** D20221101875
+- **Subject:** Mobile Application
+- **Group:** B
+- **Lecturer Name:** Dr. Ahmad Wiraputra bin Selamat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Apps Design
+
+### ➕ Add Staff Page
+  <img src="assets/images/AddPage.png" alt="Add Staff Page" width="300"/>
+
+### 📋 Staff List Page
+  <img src="assets/images/ListPage.png" alt="Staff List Page" width="300"/>
+
+### 📋 Edit List Page
+  <img src="assets/images/EditPage.png" alt="Edit Page" width="300"/>
+
+---
